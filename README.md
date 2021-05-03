@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hai Yen, a graduated master's student in Data Sciences
+### Hi there 👋 I'm Hai Yen, a graduated master's student in Data Sciences with Mathematics background
 
 - 🌱 I’m passionate about Machine Learning algorithms
 - 🤔 I'm currently interested in NLP, specially Machine Translation

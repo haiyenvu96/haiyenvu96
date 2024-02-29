@@ -1,8 +1,7 @@
-### Hi there 👋 I'm Hai Yen, a graduated master's student in Data Sciences with Mathematics background
+### Hi there 👋 I'm Hai Yen, a PhD Student in Data Siences (Machine Learning and Computer Vision)
 
-- 💬 I'm looking for a PhD position in Machine Learning
 - 🌱 I’m passionate about Machine Learning algorithms
-- 🤔 I'm currently interested in NLP, specially Machine Translation
+- 🤔 I'm currently interested in semi and self - supervised learning (Natural Language Processing and Computer Vision)
 - 📫 How to reach me: email to haiyen96.hp@gmail.com
 
 <!--
